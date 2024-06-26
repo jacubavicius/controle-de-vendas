@@ -1,0 +1,2 @@
+module controle_vendas {
+}
